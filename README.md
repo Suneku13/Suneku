@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games and game development.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on game development.
-- 📫 How to reach me suneku.r.13@gmail.com
+- 📫 How to reach me fabio.resende.t0091463@edu.atec.pt
 
 <!---
 Suneku13/Suneku13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
