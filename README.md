@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suneku13
+- 👋 Hi, I’m Fabio but you can call me @suneku13
 - 👀 I’m interested in video games and game development.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on game development.
